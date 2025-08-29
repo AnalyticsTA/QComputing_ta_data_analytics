@@ -31,8 +31,7 @@ git clone https://github.com/Dalpb/QComputing_ta_data_analytics.git
 cd QComputing_ta_data_analytics
 ```
 ## How To use it on Vscode
-
-### Env Linux | MacOs
+### Env Linux | MacOs 
 ```
 python3 -m venv .venv
 sourcer .venv/bin/active
@@ -49,4 +48,3 @@ pip install -r dependencys.txt
 ```
 
 
-![asd](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcreeyse.wordpress.com%2Fwp-content%2Fuploads%2F2014%2F08%2Fmanita1.png&tbnid=ZYnoDuqI9iOQLM&vet=10CAIQxiAoAGoXChMIsJHzuJWxjwMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fcreeyse.wordpress.com%2Fnuestros-servicios%2Fmanita%2F&docid=qz0rtMMrIQhjqM&w=2337&h=2426&itg=1&q=4%20letras&client=firefox-b-d&ved=0CAIQxiAoAGoXChMIsJHzuJWxjwMVAAAAAB0AAAAAEAc)
