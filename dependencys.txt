@@ -1,0 +1,6 @@
+pandas
+numpy
+pyreadstat
+
+matplotlib
+seaborn
