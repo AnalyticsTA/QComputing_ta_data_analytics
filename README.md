@@ -46,5 +46,9 @@ py -m venv .venv
 ```
 pip install -r dependencys.txt
 ```
-
+### Run Main Page
+Run the frontend with the following comand:
+```
+streamlit run app.py
+```
 

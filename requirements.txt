@@ -1,6 +1,7 @@
+streamlit
 pandas
 numpy
 pyreadstat
-
 matplotlib
 seaborn
+ipykernel
